@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pitch Perfect Project/PlaySoundViewControler.swift"
+            timestampString = "447473573.791156"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "playDarthvadarAudio(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pitch Perfect Project/PlaySoundViewControler.swift"
+            timestampString = "447487453.911364"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "PlaySoundViewControler"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pitch_Perfect_Project.PlaySoundViewControler.audioPlayer.getter : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.AVAudioPlayer&gt;"
+                  moduleName = "Pitch Perfect Project"
+                  urlString = "file:///Users/shanecalder/Desktop/untitled%20folder/IOS%20Developer%20Nanodegree/Project%201/Pitch%20Perfect%20Project/Pitch%20Perfect%20Project/PlaySoundViewControler.swift"
+                  timestampString = "447715635.925129"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pitch_Perfect_Project.PlaySoundViewControler.audioPlayer.materializeForSet : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.AVAudioPlayer&gt;"
+                  moduleName = "Pitch Perfect Project"
+                  urlString = "file:///Users/shanecalder/Desktop/untitled%20folder/IOS%20Developer%20Nanodegree/Project%201/Pitch%20Perfect%20Project/Pitch%20Perfect%20Project/PlaySoundViewControler.swift"
+                  timestampString = "447715635.925497"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pitch_Perfect_Project.PlaySoundViewControler.init (Pitch_Perfect_Project.PlaySoundViewControler.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; Pitch_Perfect_Project.PlaySoundViewControler"
+                  moduleName = "Pitch Perfect Project"
+                  urlString = "file:///Users/shanecalder/Desktop/untitled%20folder/IOS%20Developer%20Nanodegree/Project%201/Pitch%20Perfect%20Project/Pitch%20Perfect%20Project/PlaySoundViewControler.swift"
+                  timestampString = "447715635.925714"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pitch_Perfect_Project.PlaySoundViewControler.init (Pitch_Perfect_Project.PlaySoundViewControler.Type)() -&gt; Pitch_Perfect_Project.PlaySoundViewControler"
+                  moduleName = "Pitch Perfect Project"
+                  urlString = "file:///Users/shanecalder/Desktop/untitled%20folder/IOS%20Developer%20Nanodegree/Project%201/Pitch%20Perfect%20Project/Pitch%20Perfect%20Project/PlaySoundViewControler.swift"
+                  timestampString = "447715635.92588"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pitch_Perfect_Project.PlaySoundViewControler.init (Pitch_Perfect_Project.PlaySoundViewControler.Type)(coder : ObjectiveC.NSCoder) -&gt; Pitch_Perfect_Project.PlaySoundViewControler"
+                  moduleName = "Pitch Perfect Project"
+                  urlString = "file:///Users/shanecalder/Desktop/untitled%20folder/IOS%20Developer%20Nanodegree/Project%201/Pitch%20Perfect%20Project/Pitch%20Perfect%20Project/PlaySoundViewControler.swift"
+                  timestampString = "447715635.926061"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
